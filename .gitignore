@@ -1,0 +1,18 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.idea/
+.vscode/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Local images and model
+memes/
+models/
